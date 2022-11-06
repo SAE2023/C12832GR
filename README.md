@@ -4,7 +4,7 @@
 ## Example
 
 Here is an example for the application board with the mbed lpc1768 for mbed 6
-'''cpp
+```cpp
 
 //C12832GR
 //Version compatible MBED-0S 6
