@@ -3,7 +3,7 @@
 
 ## Example
 
-Here is an example for the application board with the mbed lpc1768 for mbed 6
+Here is an example for the application board with the mbed for mbed 6
 ```cpp
 
 //C12832GR
