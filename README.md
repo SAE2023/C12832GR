@@ -1,3 +1,22 @@
+# mbed LCD library for the mbed application board / shield
+
+This library is for the LCD of the mbed application board and shield 
+https://developer.mbed.org/components/mbed-Application-Board/ and https://developer.mbed.org/components/mbed-Application-Shield/<br>
+It uses better algorithms (Bresenham) for the graphics than the original library.
+
+
+## Installation
+
+1. "Download":https://github.com/sstaub/C12832A1Z/archive/master.zip the Master branch from GitHub
+2. Unzip and modify the folder name to "C12832A1Z"
+3. Move the modified folder on your Library folder (On your `Libraries` folder inside Sketchbooks or Arduino software)
+
+
+## Example
+
+Here is an example for the application board with the mbed lpc1768 for mbed 6
+
+
 //C12832GR
 //Version compatible MBED-0S 6
 //
