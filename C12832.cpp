@@ -205,6 +205,7 @@ void C12832::cls(void)
 {
     memset(buffer,0x00,512);  // clear display buffer
     copy_to_lcd();
+    wait_us(1000);  // ajout GR
 }
 
 
